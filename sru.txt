@@ -6,4 +6,10 @@ bfffnll
 l
 hgfcg
 ugyvfrtgy
+<<<<<<< HEAD
 this is to tesr meger master
+=======
+this is to itest branch
+>>>>>>> xyz
+
+pppppppppp
